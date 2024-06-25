@@ -1,0 +1,191 @@
+body, html {
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+  body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    
+  }
+  .paragraph1 {
+    color: crimson;
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  .header {
+    text-align: center;
+    color: brown;
+  }
+  table {
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+  }
+  .para2 {
+    color: darkred;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 16px;
+    color: goldenrod;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2
+  }
+  
+  .hero-image1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("dad.jpg");
+    height: 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  .hero-text1 {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  .head1 {
+    color: rgb(184, 100, 237);
+  }
+  .DAD {
+    color: #4CAF50;
+  }
+  .daddy {
+    color: red;
+  }
+  .hero-image2 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("mum.jpg");
+    height: 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  .hero-text2 {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  .head2 {
+    color: orangered;
+  }
+  .MUM {
+    color: navy;
+  }
+  .mummy {
+    color: chocolate;
+  }
+  .hero-image3 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("isi.jpg");
+    height: 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  .hero-text3 {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  .head3 {
+    color: hotpink;
+  }
+  .isi {
+    color: midnightblue;
+  }
+  .ISI {
+    color: fuchsia;
+  }
+  .hero-image4 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("amanda.jpg");
+    height: 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  .hero-text4 {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  .head4 {
+    color: violet;
+  }
+  .ama {
+    color: darkmagenta;
+  }
+  .AMA {
+    color: deepskyblue;
+  }
+  .lin {
+    color: peru;
+  }
+  .LIN {
+    color: slateblue;
+  }
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: pink;
+    color: white;
+    text-align: center;
+ }
